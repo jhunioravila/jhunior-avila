@@ -190,10 +190,11 @@ body{
     height: 400px;
     width: auto;
     margin: 10px 10px 20px 10px ;
+    display: flex;
 }
 .testimino-info{
     font-weight: bold;
-    max-width: 300px;
+    max-width: 400px;
     display: flex;
 }
 
